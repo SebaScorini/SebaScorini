@@ -53,14 +53,6 @@ My goal is to become a **strong backend engineer working on scalable systems and
 
 ---
 
-# 📊 GitHub Stats
-
-![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebaScorini&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebaScorini&layout=compact&theme=tokyonight)
-
----
-
 # 📚 Current Focus
 
 Right now I'm focusing on learning:
