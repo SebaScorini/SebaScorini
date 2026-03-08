@@ -9,7 +9,6 @@
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian_Scorini_Wizenberg-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sebastian-scorini-wizenberg/)
-[![GitHub](https://img.shields.io/badge/GitHub-SebaScorini-181717?style=for-the-badge&logo=github)](https://github.com/SebaScorini)
 [![Email](https://img.shields.io/badge/Email-sebastianscorini@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:sebastianscorini@gmail.com)
 
 ---
