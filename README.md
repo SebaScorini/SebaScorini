@@ -1,97 +1,104 @@
 # 👋 Hi, I'm Sebastián Scorini Wizenberg
 
-💻 Backend Developer in progress  
+💻 Full Stack Developer  
+🚀 Building web applications, APIs and SaaS products  
 🎓 Programming Technician Student at UTN FRH  
-🚀 Passionate about building systems, learning new technologies and creating real products.
 
 ---
 
-## 🌐 Connect with me
+# 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian_Scorini_Wizenberg-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sebastian-scorini-wizenberg/)
+[![GitHub](https://img.shields.io/badge/GitHub-SebaScorini-181717?style=for-the-badge&logo=github)](https://github.com/SebaScorini)
 [![Email](https://img.shields.io/badge/Email-sebastianscorini@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:sebastianscorini@gmail.com)
 
 ---
 
 # 🚀 About Me
 
-I'm a programming student currently focused on **backend development and software engineering fundamentals**.
+I'm a **Full Stack Developer specialized in Python backend development and modern web applications**.
 
-I enjoy building systems, learning new technologies and understanding how things work under the hood.
+I enjoy designing complete systems — from backend architecture and APIs to frontend interfaces and deployment.
 
-Currently learning and working with:
+My main interests are:
 
-- Python backend development
-- APIs and backend architecture
-- databases and data modeling
-- software engineering best practices
+• SaaS platforms  
+• scalable backend systems  
+• AI-powered applications  
+• full stack web products  
 
-My goal is to become a **strong backend engineer working on scalable systems and SaaS products**.
+I focus on **building real projects instead of just studying theory**.
 
 ---
 
 # 🛠️ Tech Stack
 
-### Languages
+## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 
-### Backend & Frameworks
+---
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+## Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+---
+
+## Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
 ![SQLModel](https://img.shields.io/badge/SQLModel-000000?style=for-the-badge)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
-### Tools & Technologies
+---
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+## Databases
 
-### 🤖 Artificial Intelligence and Bots
-![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
+
+---
+
+## DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+---
+
+## 🤖 AI & Data
+
+![DSPy](https://img.shields.io/badge/DSPy-AI%20Workflows-blue?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
 
 ---
 
 # 📚 Current Focus
 
-Right now I'm focusing on learning:
+Currently improving skills in:
 
-- Python backend development
-- FastAPI and modern API architecture
-- database modeling
-- Docker and deployment
-- building real SaaS applications
-
----
-
-# 🚧 Projects
-
-Here you will find projects related to:
-
-- backend development
-- APIs
-- learning systems
-- personal experiments
-- software architecture practice
-
-More projects coming soon 🚀
+• full stack SaaS development  
+• system architecture  
+• scalable APIs  
+• AI integrations in web applications  
 
 ---
 
 # ⚡ Fun Fact
 
-I enjoy learning by **building real projects instead of just watching tutorials**.
+I prefer **building real products instead of getting stuck in tutorial hell**.
 
 ---
 
